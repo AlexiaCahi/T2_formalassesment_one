@@ -22,7 +22,7 @@ form.addform ("submit", function(event) {
   
   // Validate input
   if (name === '' || email === '' || number === '') {
-    alert('Please fill in all fields');
+    alert('Please select the checkbox');
     return;
   }
   
